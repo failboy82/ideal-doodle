@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+https://video.detik.com:443/transtv/smil:transtv.smil/chunklist.m3u8?deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=12.02.26100.4343&deviceType=NSPlayer&deviceMake=NSPlayer&deviceDNT=0
+
